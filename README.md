@@ -3,11 +3,15 @@
 ## Hi there 👋
 ### Tachyon lover
 
-<br />
-<img width="420" src="https://ghstats.dev/api/card?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Overview" />
-<img width="420" src="https://ghstats.dev/api/langs?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Top%20Languages&layout=grid" />
-
-<br /><br />
-<img width="850" src="https://ghstats.dev/api/sparkline?username=Android-Stuff&theme=rosepine&border_radius=18&days=30&width=820&height=100" />
-
-</div>
+<table>
+  <tr valign="top">
+    <td width="50%">
+      <img src="https://ghstats.dev/api/sparkline?username=Android-Stuff&theme=rosepine&border_radius=18&days=30&width=420&height=100" width="100%" />
+      <br /><br />
+      <img src="https://ghstats.dev/api/card?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Overview" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://ghstats.dev/api/langs?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Top%20Languages&layout=grid" width="100%" />
+    </td>
+  </tr>
+</table>
