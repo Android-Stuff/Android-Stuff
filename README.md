@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Android-Stuff&style=flat&color=ebbcba) [![](https://ghstats.dev/api/mini?username=Android-Stuff&metric=stars&theme=rosepine)](https://ghstats.dev)
 
 <div align="center">
-  <img src="https://media.tenor.com/on5piknTLspAAAAC/cheval-grand-umamusume.gif" width="200" alt="Cheval Grand" />
+  <img src="[https://media1.tenor.com/m/pa6u28y9VqcAAAAd/cheval-grand-umamusume.gif" width="200" alt="Cheval Grand" />
 </div>
 
 ## Hi, I'm Vincent 👋
