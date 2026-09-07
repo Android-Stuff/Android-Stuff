@@ -2,6 +2,8 @@
 ### Tachyon lover
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Stats)
+![Top Languages](https://ghstats.dev/api/langs?username=Android-Stuff&theme=rosepine&border_radius=18&custom_title=Stats&layout=grid)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=Android-Stuff&theme=rosepine&border_radius=18&days=30&width=320&height=80)
 <!--
 **Android-Stuff/Android-Stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
