@@ -2,8 +2,8 @@
 
 ## Hi, I'm Vincent 👋
 
-I'm currently working on **Android applications**, **C++ projects**, and **game assets**.
-I'm passionate about **Android Development**, **Jetpack Compose**, **Cybersecurity**, **Digital Forensics**, and **Graphics Programming**.
+I'm currently working on **Android applications**, **C++ projects**, and **Digital Arts**.
+I'm passionate about **Web Development**, **Software Development**, **Cybersecurity**, **Mobile Apps**, and **Graphics Design**.
 
 ---
 
