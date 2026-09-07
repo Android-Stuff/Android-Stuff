@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Android-Stuff&style=flat&color=ebbcba) [![](https://ghstats.dev/api/mini?username=Android-Stuff&metric=stars&theme=rosepine)](https://ghstats.dev)
 
+<div align="center">
+  <img src="https://tenor.com/on5piknTLsp.gif" width="200" alt="Cheval Grand" />
+</div>
+
 ## Hi, I'm Vincent 👋
 
 I'm currently working on **Android applications**, **C++ projects**, and **Digital Arts**.
