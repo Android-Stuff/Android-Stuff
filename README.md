@@ -1,5 +1,7 @@
 ## Hi there 👋
 ### Tachyon lover
+
+[![Android-Stuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Android-Stuff)](https://github.com/Android-Stuff)
 <!--
 **Android-Stuff/Android-Stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
