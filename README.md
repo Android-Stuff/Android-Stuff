@@ -2,13 +2,7 @@
 
 <div align="center">
   <img src="https://media1.tenor.com/m/Qe3vfMsWLBsAAAAd/cheval-grand-uma-musume.gif" width="200" alt="Cheval Grand" />
-</div>
-
-<div align="center">
   <img src="https://media1.tenor.com/m/pa6u28y9VqcAAAAd/cheval-grand-umamusume.gif" width="200" alt="Cheval Grand" />
-</div>
-
-<div align="center">
   <img src="https://media1.tenor.com/m/O97hUUasZmcAAAAd/uma-musume-cheval-grand.gif" width="200" alt="Cheval Grand" />
 </div>
 
